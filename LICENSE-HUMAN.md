@@ -4,13 +4,19 @@
 
 ---
 
+## 🚦 Quick Summary
+
 AINCS is free to use — **unless**:
 
-- Your company earns **more than $10 million/year**, **or**
-- You **sell or license** your app/agent to a company that does.
+- Your organization earns **more than $10 million USD per year**, **or**
+- You **sell or license** your AINCS-powered software or agents to an organization that does, **or**
+- Your product, company, or AINCS technology is **acquired by another entity**.
 
-In that case, a **paid license is required**.  
-Contact: **contactus@ainativecomputing.org**
+These conditions trigger a **commercial license requirement** — not as a penalty, but as a fair contribution to support the ecosystem.
+
+AINCS was built to **empower developers and protect the public good**, not to become a free engine for unchecked corporate consolidation.
+
+If you’re unsure, just ask: **contactus@ainativecomputing.org**
 
 ---
 
