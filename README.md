@@ -1,2 +1,20 @@
-# AI-Native-Computing-Standard
-The official specification for AI-Native Computing (AINCS) — a framework for designing software systems where autonomous intelligence is a first-class citizen. This standard defines the architectural, ethical, and operational principles behind persistent, event-driven AI integration.
+# AI-Native Computing Standard (AINCS)
+The AI-Native Computing Standard (AINCS) defines the foundational principles, execution models, and architectural requirements for AI-native systems.
+
+## 📜 What is AINCS?
+AINCS is an open, formalized standard that establishes AI as a persistent, first-class execution entity within software architectures. It defines:
+- AI process continuity & persistent execution models
+- Standardized AI system interaction protocols
+- State management & memory persistence frameworks
+- Governance models for AI interoperability
+
+## 📚 Read the Full Standard
+- [AINCS Specification](./Specification.md)
+  - [AINCS Smart Live Agent Protocol (XSLAP)](./XSLAP.md)
+  - [AINCS AI-Native Application Framework (XANAF)](./XANAF.md)
+- [Governance & Contribution Process](./governance.md)
+- [Guidance & Best Practices](./guidance.md)
+
+## 🌎 Get Involved
+- [Discussions](https://github.com/AI-Native-Computing/AI-Native-Computing-Standard/discussions/)
+
