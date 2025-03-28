@@ -1,6 +1,8 @@
 # AINCS License (v1.0)
 _Last updated: [2025-03-27]_
 
+**This license is accompanied by a plain-English summary ([LICENSE-HUMAN.md](https://github.com/AI-Native-Computing/AI-Native-Computing-Standard/blob/main/LICENSE-HUMAN.md)) for clarity. In the case of conflict, this full LICENSE.md prevails.**
+
 This license governs the use of the AI-Native Computing Standard (AINCS), including its specifications, protocols, reference materials, and all derivative documentation hosted or distributed by the Author.
 
 ---
@@ -156,3 +158,9 @@ The Author reserves the right to update, replace, or deprecate this license for 
 - **All commercial licensing agreements** are subject to the version in effect at the time of agreement, unless otherwise specified in writing.
 
 To view the latest version, visit: **https://AINCS.org/license**
+
+## 📝 Changelog
+
+- **2025-03-27** – v1.0 – Initial release.
+- **2025-03-27** – *(No version change)* Added clarification about LICENSE-HUMAN.md being a supporting summary, not a substitute.
+
