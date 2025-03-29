@@ -8,7 +8,8 @@ AINCS is an open, formalized standard that establishes AI as a persistent, first
 - State management & memory persistence frameworks
 - Governance models for AI interoperability
 
-## 📚 Read the Full Standard
+## 📚 Read
+- [Introduction](./Intro.md)
 - [AINCS Specification](./Specification.md)
   - [AINCS Smart Live Agent Protocol (XSLAP)](./XSLAP.md)
   - [AINCS AI-Native Application Framework (XANAF)](./XANAF.md)
